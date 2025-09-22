@@ -1,24 +1,40 @@
-# ALEX-
-I help students in making their assessments at cheap rates
-# Alex — Assignment Help Australia
 
-A simple static site for tutoring & editing services. Ready for GitHub Pages.
+ALEX ASSESSMENT HELP
+Hi, I’m Alex 👋
 
-## Quick Start
+With 7+ years of experience helping over 300 students across IT, Business, Finance, and Management, I deliver professional, original, and high-quality solutions.
 
-1. **Create a GitHub repo** named `alex-assignment-help`.
-2. Download this folder and push the files to the repo root.
-3. Replace placeholders:
-   - In `/order.html`, set your Formspree (or Getform/Basin) endpoint: `action="https://formspree.io/f/YOUR_FORM_ID"`
-   - In `/sitemap.xml` and `<head>` tags, replace `https://<your-username>.github.io/alex-assignment-help/` with your real Pages URL.
-4. **Enable GitHub Pages:** Settings → Pages → Deploy from branch → `main` → `/ (root)`.
-5. Visit your site (e.g., `https://<your-username>.github.io/alex-assignment-help/`).
+My focus is on academic excellence, technical accuracy, and client satisfaction always aligned with academic standards and industry best practices.
 
-## Serverless Form Backends
+Services
+I provide end-to-end support across academic, technical, and professional projects:
 
-- **Formspree**: https://formspree.io/ → Create a form → copy endpoint → replace in `order.html`.
-- **Getform**: https://getform.io/ (similar steps).
-- **Basin**: https://usebasin.com/ (similar steps).
+📚 Academic Help → All courses, assessments, reports, case studies, essays, dissertations.
+
+🏗 Engineering Assignments → Civil, mechanical, and electrical project reports & designs.
+
+💻 Web Development → Responsive websites, portfolios, and e-commerce solutions.
+
+📱 App Development → Mobile and desktop applications.
+
+🎨 UI/UX Design → Modern interfaces, user research, and wireframes.
+
+🖊 AutoCAD & Revit → Engineering, architecture, and design drawings.
+
+⚙ Technical & Non-Technical Projects → Customized solutions for business and IT needs.
+
+Projects
+📊 Project Management
+
+Planned and executed academic & business projects with clear deliverables, timelines, and budgets.
+
+💻 IT Solutions
+
+Developed ICT improvement plans, network designs, and operational strategies for real-world case studies.
+
+📑 Academic Support
+
+Guided 300+ students with assignments, presentations, and portfolios across multiple disciplines, consistently achieving excellent grades.
 
 ## Contact
 
@@ -26,6 +42,4 @@ A simple static site for tutoring & editing services. Ready for GitHub Pages.
 - Phone: +61 480 810 321
 - WhatsApp: https://wa.me/61480810321
 
-## Academic Integrity
 
-This site is for tutoring, editing, and exemplar preparation only. Do not submit provided exemplars as your own work.
